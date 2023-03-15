@@ -1,6 +1,8 @@
 # ghostScanner
 **GhostScanner** is a lightning fast, multithreaded scanner written in Python, capable of scanning massive network ranges and finding open-relays and unsecured SMTP servers.
 
+**Contact me for GhostScanner script https://t.me/ghostverse**
+
 
 # Requirements :wrench:
 - Python v3.x+
